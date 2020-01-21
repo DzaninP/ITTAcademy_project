@@ -1,0 +1,35 @@
+body{
+    background-image:  url(images/admin.jpg);
+    background-size: cover;
+    font-family: Arial;
+    font-size: 30px;
+    color: black;
+}
+.credit-button{
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    background: white;
+    font-size: 40px;
+    border-radius: 8px;
+    text-align: center;
+}
+.card-button{
+    position: absolute;
+    top: 30%;
+    left: 45%;
+    background: white;
+    font-size: 40px;
+    border-radius: 8px;
+    text-align: center;
+}
+.account-button{
+    position: absolute;
+    top: 30%;
+    left: 65%;
+    background: white;
+    font-size: 40px;
+    border-radius: 8px;
+    text-align: center;
+}
+

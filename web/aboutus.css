@@ -1,0 +1,48 @@
+body{
+    background-image: url('images/aboutus.jpg');
+    background-size: cover;
+    font-family: Arial;
+    font-size: 30px;
+    height: 700px;
+    color: white;
+}
+
+.box{
+    background-color: white;
+    margin: 50px;
+    padding: 30px;
+    border-radius: 25px;
+    border: 2px solid white;
+    opacity: 0.7;
+}
+.text{
+    margin: 0%;
+    color: #000;
+}
+.text p{
+    color: #000;
+}
+.box1{
+    background-color: white;
+    border-radius: 25px;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+    margin: 50px;
+    opacity: 0.7;
+}
+.text1{
+    margin: 0;
+    color: #000;
+}
+.text1 p{
+    color: #000;
+}
+.text1 strong{
+    font-size: 40px;
+}
+.home-button{
+    transform: translate(1800%,1200%);
+    font-size: 24px;
+    border-radius: 8px;
+}

@@ -1,0 +1,70 @@
+body{
+    background-image: url('images/creditview.jpg');
+    background-size: cover;
+    font-family: Arial;
+    font-size: 30px;
+    color: white;
+}
+.box{
+    font-size: 40px;
+    background-color: #0000CD;
+    margin: 10px;
+    padding: 25px;
+    border-radius: 25px;
+    width: 300px;
+    text-align: center;
+    transform: translate(75%,25%);
+    color: white;
+    opacity: 0.7;
+}
+.box1{
+    font-size: 40px;
+    background-color: #0000CD;
+    margin: 10px;
+    padding: 25px;
+    border-radius: 25px;
+    width: 300px;
+    text-align: center;
+    transform: translate(75%,65%);
+    color: white;
+    opacity: 0.7;
+}
+.box2{
+    font-size: 40px;
+    background-color: #0000CD;
+    margin: 10px;
+    padding: 25px;
+    border-radius: 25px;
+    width: 300px;
+    text-align: center;
+    transform: translate(75%,85%);
+    color: white;
+    opacity: 0.7;
+}
+.btn{
+    font-size: 24px;
+    width: 250px;
+    transform: translate(280%,-800%);
+    border-radius: 12px;
+    background-color: white;
+    color: black;
+    opacity: 0.7;
+}
+.btn1{
+    font-size: 24px;
+    width: 250px;
+    border-radius: 12px;
+    transform: translate(175%,-360%);
+    background-color: white;
+    color: black;
+    opacity: 0.7;
+}
+.btn2{
+    font-size: 24px;
+    width: 250px;
+    border-radius: 12px;
+    transform: translate(70%,20%);
+    background-color: white;
+    color: black;
+    opacity: 0.7;
+}
